@@ -162,7 +162,7 @@ const News = (props) => {
       let data = await fetch(url);
       let parsedData = await data.json();
       // this.setState({ articals: this.state.articals.concat(parsedData.articles) })
-      console.log(parsedData);
+      // console.log(parsedData);
       setarticals(articals.concat(parsedData.articles));
       settotalResults(parsedData.totalResults);
       
