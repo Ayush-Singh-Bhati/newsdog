@@ -4,7 +4,7 @@ import newsdogwall from './images/newsdogwall.jpg'
 import newscategory from './images/newscategory.jpg'
 import style from '../modules/carousel.module.css'
 
-export default function Carousel(props) {
+export default function Carousel() {
   return (
     <div>
       <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel" >
