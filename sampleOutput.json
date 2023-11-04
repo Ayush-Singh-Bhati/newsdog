@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "161385360554578",
+        "title": "Premier League fixture release, Man United out of Kane race, Chelsea reject Mount bid",
+        "description": "talkSPORT.com brings you all the latest football news, views and transfer gossip from the Premier League and beyond. Plus, we’ll have all the fixture info with the Premier League releasing it…",
+        "url": "https://talksport.com/football/1456586/football-news-live-transfers-premier-league-fixtures-kane-mount/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/06/JF-TALKSPORT-TRANSFERS-BLOG-1.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+        "publishedAt": "2023-06-15T07:32:11Z",
+        "content": "All 64 matches in this summer’s FIFA Women’s World Cup will be broadcast live on terrestrial TV in the UK after the BBC and ITV clinched a joint rights deal.\r\nThe move, which includes live audio comm… [+1083 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Premier League fixtures to be announced - plus transfer news",
+        "description": "The 2023-24 Premier League fixtures will be released on Thursday at 09:00 BST, plus all the latest football and transfer news.",
+        "url": "http://www.bbc.co.uk/sport/live/football/65909427",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2023-06-15T06:22:17.3505724Z",
+        "content": "Today's the day. Premier League fixture release day.\r\nThe Champions League final only brought a curtain down on the 2022-23 club season on Saturday, but plans will be made from today as Premier Leagu… [+271 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      }
+    ]
+  }
