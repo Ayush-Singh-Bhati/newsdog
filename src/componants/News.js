@@ -24,6 +24,7 @@ const News = (props) => {
   
   const [articals, setarticals] = useState([]);
   const [loading, setLoading] = useState(true);
+  // eslint-disable-next-line 
   const [error, seterror] = useState(null);
   const [page, setpage] = useState(1);
   const [totalResults, settotalResults] = useState(0);
@@ -54,7 +55,8 @@ const News = (props) => {
 
   useEffect(() => {
      document.title = `${Capitalize(props.category)} - NewsDog`;
-    updateNews();  
+    updateNews(); 
+    // eslint-disable-next-line  
   }, [])
   
   // componentDidMount() {
